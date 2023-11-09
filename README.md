@@ -7,6 +7,7 @@
   <hr>And write autotests on Java + Selenide + Cucumber + Springboot.
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/739c1638-1d89-440b-830c-5a113833ad6e.svg)](https://wakatime.com/@739c1638-1d89-440b-830c-5a113833ad6e)
 
 <h3 align="left">Connect with me:</h3>
 
