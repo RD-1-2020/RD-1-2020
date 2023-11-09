@@ -1,4 +1,4 @@
-<h1 align="center">A java dev from Novosibirsk, 3 years Enterprice experience</h3>
+<h1 align="center">A java dev from Novosibirsk</h3>
 <h3>Short description</h3>
 <p align="left">
   Write code from 11 y.o. start from C, C++, C#, now have any Enterprice Experince on Java and Angular.
