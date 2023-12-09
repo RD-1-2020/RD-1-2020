@@ -24,12 +24,12 @@ This java 17 and spring-websocket application for store session on local PC. <br
 This is base android student application for create ship port order and process it. <br>
 Any part of this is very bad (for example any stores), but in this time i have't any enterprise expirience.
 
-<h3>Digit Graphic</h3><br>
+<h3>C# Student project "Digit Graphic"</h3><br>
 <strong>Repo:</strong> https://github.com/RD-1-2020/DigitGraphics <br>
 This repo with comand work on same project with students from NSTU. In this project we are use Jira + Kanban +
 Github for imitate Enterprise development.
 
-<h3>C# Student project for AquaVail corp.</h3><br>
+<h3>C# Student project for AquaVeil corp.</h3><br>
 <strong>Repo:</strong> https://github.com/RD-1-2020/AquaVeil <br>
 This programms for control microcontroller on COM port. The microcontroller controlled the swing and waterfall.
 
