@@ -30,7 +30,7 @@ This repo with comand work on same project with students from NSTU. In this proj
 Github for imitate Enterprise development.
 
 <h3>C# Student project for <a href="https://www.youtube.com/channel/UCAJ03fRNb23SRhHpaJhNe4Q">AquaVeil</a> corp.</h3><br>
-<strong>Repo:</strong> https://github.com/RD-1-2020/AquaVeil <br>
+<strong>Repo:</strong> https://github.com/RD-1-2020/AquaVeil/tree/master/AquaVeilV1 <br>
 This programms for control microcontroller on COM port. The microcontroller controlled the swing and waterfall.
 
 </p>
